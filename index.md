@@ -4,12 +4,12 @@ title: Welcome to Bear
 ---
 
 # Welcome to Bear
-![Bear Logo](bear-logo.png)
+![Bear Logo](bear-logo.jpg)
 
 Or centered using HTML:
 
 <p align="center">
-  <img src="images/bear-logo.png" width="300">
+  <img src="bear-logo.jpg" width="300">
 </p>
 ## Bear is a beautiful, flexible writing app for crafting notes and prose.
 
