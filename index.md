@@ -1,0 +1,28 @@
+---
+layout: default
+title: Welcome to Bear
+---
+
+# Welcome to Bear
+
+## Bear is a beautiful, flexible writing app for crafting notes and prose.
+
+**Bear** lets you write beautifully and stay organized using tags, markdown, and export options.
+
+### ✨ Features
+
+- Rich Markdown support
+- Hashtags for organization
+- Cross-note linking
+- Export to PDF, HTML, DOCX, and more
+- Focus Mode for distraction-free writing
+
+### 🧭 Ideal for
+
+- Students writing reports
+- Developers writing documentation
+- Creatives crafting articles, journals, or books
+
+---
+
+Made with 🐻 by Bear — [bear.app](https://bear.app)
