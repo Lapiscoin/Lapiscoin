@@ -1,34 +1,23 @@
----
-layout: default
-title: Welcome to Bear
----
+# Untitled
 
-# Welcome to Bear
-![Bear Logo](bear-logo.jpg)
+## Even with broken wrings, we can rise.
 
-Or centered using HTML:
+![IMG_2141.jpeg](Untitled%2020ac08c7abfe80179d9ccbd31854aab2/IMG_2141.jpeg)
 
-<p align="center">
-  <img src="bear-logo.jpg" width="300">
-</p>
-## Bear is a beautiful, flexible writing app for crafting notes and prose.
+![Untitled.jpg](Untitled%2020ac08c7abfe80179d9ccbd31854aab2/2c488f3d-bfe4-43ff-95b1-3b19b9e9018b.png)
 
-**Bear** lets you write beautifully and stay organized using tags, markdown, and export options.
-
-### ✨ Features
-
-- Rich Markdown support
-- Hashtags for organization
-- Cross-note linking
-- Export to PDF, HTML, DOCX, and more
-- Focus Mode for distraction-free writing
-
-### 🧭 Ideal for
-
-- Students writing reports
-- Developers writing documentation
-- Creatives crafting articles, journals, or books
+### The character—Lapis—comes from a world an author built long ago, in silence and solitude.
+                      That story remained hidden from the public… until now.
+                      Through this meme coin, a fragment of that hidden world takes flight.
 
 ---
 
-Made with 🐻 by Bear — [bear.app](https://bear.app)
+![7C2DD809-1998-4098-89BA-FDF2C29D8191.jpeg](Untitled%2020ac08c7abfe80179d9ccbd31854aab2/7C2DD809-1998-4098-89BA-FDF2C29D8191.jpeg)
+
+![6A08C36C-0550-4851-B457-62B0E7F477FF.jpeg](Untitled%2020ac08c7abfe80179d9ccbd31854aab2/a69a3410-2fa3-42f1-bfab-5fdd9a7bcaad.png)
+
+![3D2C766A-B2BC-49CA-90F7-41D998742A94.jpeg](Untitled%2020ac08c7abfe80179d9ccbd31854aab2/3D2C766A-B2BC-49CA-90F7-41D998742A94.jpeg)
+
+![7D849385-7ED8-48BC-AB5A-360F7F9A8CF1.jpeg](Untitled%2020ac08c7abfe80179d9ccbd31854aab2/7D849385-7ED8-48BC-AB5A-360F7F9A8CF1.jpeg)
+
+##
